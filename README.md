@@ -2,8 +2,7 @@
 
 I've used bolt ai for designing and generating this UI
 - This was the first prompt i gave to bolt
-# Generate a ui for a website for digital gency named CreaticSpace that specializes in Digital marketing solutions and web and app development. the design must be replicable by wordpress and Astra theme is in my   
-# considerations so keep it in mind.
+# Generate a ui for a website for digital gency named CreaticSpace that specializes in Digital marketing solutions and web and app development. the design must be replicable by wordpress and Astra theme is in my considerations so keep it in mind.
 This was it's response
 I'll help you create a modern, professional UI for CreaticSpace that would work well with WordPress and the Astra theme. I'll use Tailwind CSS for styling and Lucide React icons to create a design that's both beautiful and practical.
 
